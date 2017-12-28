@@ -1,0 +1,20 @@
+{
+  "name": "vetemranve/reconsile",
+  "description": "Recosilation tool",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mikhail Denisov",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4": {
+      "" : "app"
+    }
+  },
+  "require": {
+    
+  }
+}
